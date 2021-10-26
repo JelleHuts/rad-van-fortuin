@@ -1,0 +1,18 @@
+.arrow {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #container {
+    margin-top: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 2s ease;
+  }
+  
+  .segmentClass {
+    border: 1px solid rgb(174, 0, 255);
+    width: 250px;
+    position: absolute;
+  }  
